@@ -144,7 +144,6 @@ fr-FR:
   <<: *FR
 fr-LU:
   <<: *FR
-  
 ## => Turkish
 ########################
 tr: &TR
@@ -166,5 +165,5 @@ tr: &TR
   EMAIL_ME                : "Bana email ile ulaşın."
   EMAIL_US                : "Bize email ile ulaşın."
   COPYRIGHT_DATES         : "2021"
-  
+
 # @end locale config
