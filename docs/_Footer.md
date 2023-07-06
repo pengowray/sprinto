@@ -1,0 +1,1 @@
+**[Invite Sprinto](https://discord.com/oauth2/authorize?client_id=421646775749967872&scope=bot&permissions=2419424576) ⸻ [Join Support Server](https://discord.gg/7ZSuEgM) ⸻ [top.gg](https://top.gg/bot/421646775749967872) ⸻ [Sprinto on Patreon](https://www.patreon.com/pengowray)** ⸻ [Buy me a coffee](https://ko-fi.com/pengowray) (Ko-fi)
