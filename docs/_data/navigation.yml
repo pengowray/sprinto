@@ -23,7 +23,7 @@ header:
       fr-LU   : *FR
       tr      : &TR       Arşivdekiler
       # @end locale config
-    url: /archive.html
+    url: /archive
 
   - titles:
       # @start locale config
@@ -49,4 +49,17 @@ header:
       fr-LU   : *FR
       tr      : &TR       Hakkında
       # @end locale config
-    url: /about.html
+    url: /about
+    
+  - title: Sprint
+    url: /Sprint
+
+  - title: Commands
+    subfolderitems:
+      - page: Admin
+        url: /SprintAdmin
+      - page: CarlBot
+        url: /CarlBot
+      - page: MiscCommands
+        url: /MiscCommands
+
