@@ -56,7 +56,7 @@ author:
 ## => GitHub Repository (if the site is hosted by GitHub)
 ##############################
 repository: pengowray/sprinto
-repository_tree: master
+repository_tree: master/docs # "master" (default)
 
 
 ## => Paths
