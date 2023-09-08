@@ -1,8 +1,8 @@
 # sprinto
 Writers Sprint Bot for Discord 
 
-Help wiki:
-https://github.com/pengowray/sprinto/wiki
+Website (help):
+https://sprintobot.com/
 
 Support server:
 https://discord.gg/7ZSuEgM
