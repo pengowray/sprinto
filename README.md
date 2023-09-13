@@ -1,8 +1,9 @@
 # sprinto
 Writers Sprint Bot for Discord 
 
-Website (help):
-https://sprintobot.com/
+[Sprinto's website](https://sprintobot.com/) with help and documentation:
+
+## [sprintobot.com](https://sprintobot.com/)
 
 Support server:
 https://discord.gg/7ZSuEgM
